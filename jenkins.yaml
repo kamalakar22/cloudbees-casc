@@ -1,10 +1,1 @@
-jenkins:
-  pipelineTemplateCatalogs:
-    - name: ci-pipeline-templates
-      displayName: CI Pipeline Templates
-      scm:
-        git:
-          remote: https://github.com/kamalakar22/pipeline-templates.git
-          credentialsId: github-pat
-          branch: main
 
