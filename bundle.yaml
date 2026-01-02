@@ -1,0 +1,5 @@
+apiVersion: "1"
+id: cloudbees-casc
+description: "Enable Pipeline Template Catalogs"
+version: "1"
+
